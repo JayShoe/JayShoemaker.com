@@ -12,7 +12,7 @@ author:
   url:            https://twitter.com/mdo
 
 # Gems
-plugins:
+gems:
   - jekyll-paginate
   - jekyll-gist
 
