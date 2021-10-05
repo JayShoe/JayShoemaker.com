@@ -1,14 +1,14 @@
 # Setup
-title:            Jay Shoemaker
-tagline:          'Entrepreneur & Product Manager.'
-description:      'Entrepreneur & Product Manager.'
+title:            Jay P Shoemaker IV
+tagline:          'Entrepreneur & Product Manager'
+description:      'Entrepreneur & Product Manager'
 url:              https://jayshoemaker.com
 baseurl:          ''
 paginate:         5
 
 # About and contact
 author:
-  name:           'Jay Shoemaker'
+  name:           'Jay P Shoemaker IV'
   url:            https://twitter.com/JayShoe
 
 # Gems

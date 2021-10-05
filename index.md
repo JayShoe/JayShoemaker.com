@@ -22,7 +22,8 @@ Hey there! I am a successful entrepreneur and business owner. I have diverse exp
 
 ### Career Experience & Accomplishments
 
-#### Jukebox Jockey, LLC, Product Manager, 2009-current Blackwood, NJ
+#### Jukebox Jockey, LLC, Blackwood, NJ
+##### Product Manager, 2009-current 
 
 ● Leads a team of three developers using Agile methodologies to develop our company's
 custom line of touch screen jukeboxes, karaoke machines, and related SaaS platform
@@ -32,7 +33,8 @@ achieve business goals<br>
 ● Develops product strategies that align with company vision based on customer
 feedback, customer interviews, team meetings, and quantitative analysis
 
-#### Shoemaker Entertainment, LLC 1998-current President & Owner
+#### Shoemaker Entertainment, LLC, Blackwood, NJ
+##### President & Owner, 1998-current 
 
 ● Researched and wrote a business plan for the launch of a digital jukebox rental
 business and won 1st place prize at the Rowan University Business Plan Competition
