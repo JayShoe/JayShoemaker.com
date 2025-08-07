@@ -5,7 +5,7 @@ title: Jay P. Shoemaker IV
 
 # Senior Product Manager | SaaS and AI Solutions | Entrepreneurial Leader
 
-Hi, I'm Jay Shoemaker — an entrepreneurial product leader with nearly 20 years of experience building companies and delivering SaaS and hardware-enabled solutions that improve workflows, reduce friction, and drive measurable results.
+Hi, I'm Jay Shoemaker, an entrepreneurial product leader with nearly 20 years of experience building companies and delivering SaaS and hardware-enabled solutions that improve workflows, reduce friction, and drive measurable results.
 
 I have hands-on expertise shipping AI-powered features including generative content, analytics, and decision-support into live products. My approach combines deep customer engagement and market analysis with a focus on UX to align product vision with business goals. I'm collaborative, data-driven, and decisive.
 
@@ -24,7 +24,7 @@ I have hands-on expertise shipping AI-powered features including generative cont
 ## Professional Experience
 
 ### **Gofer Parts** – Blackwood, NJ
-**PIM Product Manager & Business Development Specialist** | Jan 2024 – Present
+**Business Development Specialist and Product Manager** | Jan 2024 – Present
 
 • Led design and implementation of custom Product Information Management (PIM) system supporting multi-channel e-commerce strategy
 
