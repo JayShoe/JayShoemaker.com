@@ -3,126 +3,101 @@ layout: page
 title: Jay P. Shoemaker IV
 ---
 
-# Senior Product Manager | SaaS and AI Solutions | Entrepreneurial Leader
+# Senior Product Manager who builds what he ships
 
-Hi, I'm Jay Shoemaker, an entrepreneurial product leader with nearly 20 years of experience building companies and delivering SaaS and hardware-enabled solutions that improve workflows, reduce friction, and drive measurable results.
+I'm Jay Shoemaker, a product manager who builds. For 15+ years I've taken products from idea to production across B2B ecommerce, SaaS, and hardware, owning both the strategy and the hands-on execution.
 
-I have hands-on expertise shipping AI-powered features including generative content, analytics, and decision-support into live products. My approach combines deep customer engagement and market analysis with a focus on UX to align product vision with business goals. I'm collaborative, data-driven, and decisive.
-
----
-
-## Core Competencies
-
-**AI & Product Development:** GPT-4, DALL·E, Prompt engineering, AI feature integration, Product roadmap and strategy
-
-**Customer & Market Focus:** Customer discovery, Journey mapping, Market research, Product marketing and positioning
-
-**Technical Leadership:** Cross-functional leadership, Agile development, Data-driven decision making, Go-to-market planning
+I've run PIM catalogs of 400,000+ SKUs, shipped full-stack platforms solo using AI-assisted development, and designed my own PCBs in KiCad. I do the customer discovery, the roadmaps, and the go-to-market. I also write the code and solder the board. That combination is the whole point: I close the gap between what a product should do and whether it actually works.
 
 ---
 
-## Professional Experience
+## What I Do
 
-### **eBay** – Remote
-**Product Manager, WHI Division** | May 2026 – Present
+**Product and Strategy:** Roadmapping, customer discovery, go-to-market, B2B ecommerce, PIM and catalog systems, product positioning
 
-Recently joined the WHI division at eBay as a Product Manager. More information will be added as projects are launched and publicly shareable.
+**Building:** Full-stack development (Next.js, NestJS, Directus), API and NetSuite/Salesforce integration, AI-assisted product development, search and data architecture
 
-### **Gofer Parts** – Blackwood, NJ
+**Hardware:** PCB design (KiCad), embedded audio and DSP, electronics prototyping, design for manufacturing
+
+---
+
+## Experience
+
+### eBay, WHI Solutions (Nexpart) | Remote
+**Senior Product Manager** | May 2026 – Present
+
+Senior PM in eBay's WHI Solutions division (Nexpart), focused on B2B automotive parts ecommerce serving distributors and repair shops at scale.
+
+*More detail on specific initiatives will be added here as work becomes publicly shareable.*
+
+### Gofer Parts | Blackwood, NJ
 **Digital Product Manager** | Jan 2024 – April 2026
 
-• Led design and implementation of custom Product Information Management (PIM) system supporting multi-channel e-commerce strategy
+Owned the product and the build for a B2B parts business modernizing how it sells.
 
-• Shipped AI-powered features leveraging GPT-4 and DALL·E to generate product descriptions, images, and analytics, lowering site bounce rate by 25% and improving content relevance and SEO
+- Stood up a custom Product Information Management system as the single source of truth for 400,000+ SKUs, integrating NetSuite ERP with a Directus backend for real-time pricing and inventory.
+- Conceived, architected, and single-handedly built Gofer Link, a production B2B partner portal that replaced manual phone and email ordering with a guided digital workflow for field technicians, an approval layer for managers, and a clean NetSuite interface for sales reps.
+- Launched new product lines (Surface Prep and Golf Cart parts) after market research, creating the foundation for roughly $180,000 in additional sales.
+- Built natural-language product search, letting customers find parts by intent ("squeegee for SC901 floor scrubber") instead of part numbers.
 
-• Designed and validated AI workflows, engineered prompts, and implemented fallback flows to ensure reliable, high-quality output
+### Shoemaker Entertainment | Blackwood, NJ
+**Founder and Product Manager** | 2006 – Present
 
-• Delivered actionable analytics via AI to identify sales opportunities, validate pricing strategies, and optimize marketing targeting
+Built and scaled a jukebox and karaoke rental company to market-leading position, then turned it into a live R&D lab for my own products.
 
-• Conducted market research to identify and launch new product line, creating foundation for $180,000 in additional sales and establishing scalable growth strategy
+- Grew to 1,200+ annual events with consistent 20% YoY growth across NJ, NY, DE, and PA, backed by a $250,000 angel investment.
+- Designed and shipped the "Juke" booking and operations platform (AWS, Next.js, Google Maps routing, automated agreements and payments), cutting booking overhead dramatically.
+- Engineered custom hardware in-house, from the Tower jukebox to the briefcase-sized TT-100 fleet still in service today.
 
-### **Shoemaker Entertainment** – Blackwood, NJ  
-**Founder and Product Manager** | May 2006 – Dec 2024
+### Jukebox Jockey LLC | Remote
+**Product Manager and Customer Success Manager** | 2009 – 2020
 
-• Designed and launched proprietary SaaS booking and operations platform that automated customer requests, payments, employee scheduling, and follow-ups, enabling scalable operations
+Turned internal rental software into a global commercial product.
 
-• Developed advanced route scheduling and mapping features to optimize staff assignments, reduce travel time, and improve on-time performance
-
-• Managed full product lifecycle of digital jukebox and karaoke system, working with developers and vendors to design, build, and launch platform that became foundation of company services
-
-• Built and managed team of 15+ employees, growing company to serve thousands of customers across tri-state area
-
-### **Jukebox Jockey LLC** – Remote
-**Product Manager and Customer Success Manager** | May 2009 – Dec 2019
-
-• Managed B2B SaaS product lifecycle from ideation to release for digital jukebox and karaoke software platform
-
-• Owned customer onboarding, support, and issue triage, serving as single point of contact for all customer success needs
-
-• Partnered with customers to gather insights, translating into successful new features and UX improvements
-
-• Developed go-to-market collateral and worked closely with engineering to deliver high-quality releases
-
-### **ServiceMaster** – Pennsauken, NJ
-**Digital Marketing Manager** | Jan 2014 – Apr 2016
-
-• Led digital marketing strategy and execution for regional franchise, improving customer acquisition through targeted campaigns and SEO optimization
-
-• Managed website redesign and content strategy to better align with customer needs and increase conversion rates
-
-• Oversaw online advertising, social media presence, and customer engagement analytics to inform business decisions
+- Drove the shift from rental-only to worldwide distribution, reaching 10,000+ software sales across home users, venues, casinos, and hotels.
+- Ran agile release cycles, multi-channel support (forum, email, remote desktop, phone), and a full documentation suite that reduced support load.
+- Localized the product into 5+ languages and managed content licensing with music and video providers.
 
 ---
 
 ## Featured Projects
 
-### **Directus Hub PRD | Platform Strategy**
-• Authored comprehensive product requirements document for multi-instance orchestration platform
-• Designed modular architecture supporting Hub → Studio → Tenant → Environment → Provider hierarchy
-• Defined provider abstraction model for infrastructure-agnostic deployments
-• Demonstrated platform-level thinking and complex system design capabilities
-• **[View Full PRD](https://github.com/directus/directus/discussions/25544)**
+### Gofer Link, B2B Partner Portal
+A production B2B platform for the commercial cleaning equipment industry, built solo on Directus and Next.js against a 400,000+ SKU PIM. Replaces manual ordering with a structured workflow and gives partners a clean interface into NetSuite without ever touching its native UI. Live in production with active users across partner organizations.
 
-### **HallRentalReviews.com | AI-Driven Content Platform**
-• Designed, developed, and deployed live, SEO-optimized directory site as marketing campaign
-• Used GPT-4 to generate dynamic reviews, descriptions, metadata, and targeted marketing content aligned to user search intent
-• Built using AI-assisted development tools with SEO best practices
-• Delivered self-sustaining platform that became top-performing marketing campaign with minimal ongoing cost
+### Master Resume, Open-Source Career Platform
+A career management system that treats your resume as structured data instead of a static document, generating tailored, role-specific output on demand. Won 1st place in the Directus MCP Hackathon Template Challenge for its real-world application of the Model Context Protocol. Features AI resume generation, interview prep, and application tracking.
+**[GitHub](https://github.com/JayShoe/master-resume)**
 
-### **Booking Management System | SaaS Platform**
-• Designed and led development of proprietary web-based booking and operations platform
-• Worked with engineering team using Agile methodology to deliver iterative improvements aligned with user needs
-• Included advanced route scheduling and mapping to optimize staff assignments and improve efficiency
-• Automated all customer and operational workflows, eliminating manual scheduling and enabling scalable growth
+### T-DSP, Custom Digital Audio Platform
+Self-taught electrical engineering and PCB design to solve reliability problems with off-the-shelf jukebox audio. Designed modular DSP boards in KiCad with working prototypes, targeting use as a digital mixer, effects processor, and studio interface. Proof that I follow a problem all the way down to the hardware.
 
-### **Music Library AI Categorization**
-• Leveraged AI to organize and tag large karaoke and jukebox music library, improving searchability and usability
-• Applied prompt engineering and validation techniques to ensure accurate and relevant metadata generation
+### HallRentalReviews.com, SEO Lead-Gen Platform
+A venue discovery directory I built in 2015 by documenting halls during rental visits, grown to 10,000+ monthly visitors at peak. Recently rebuilt from legacy Drupal to a Directus and Next.js stack while preserving years of SEO value, and extended with an advertising revenue model.
 
 ---
 
 ## Education
 
-**Rowan University** | B.S. Business Administration: Entrepreneurship, Magna Cum Laude  
-President, Collegiate Entrepreneurs Organization (CEO)
+**Rowan University, Rohrer College of Business**
+B.S. Entrepreneurial Studies, Magna Cum Laude
+1st place, Rowan Business Plan Competition. President, Collegiate Entrepreneurs Organization.
 
 ---
 
-## Technical Skills
+## Recognition
 
-**AI/ML Platforms:** GPT-4, DALL·E, Prompt engineering, LLM validation, AI workflow design  
-**Product Management:** Roadmapping, Cross-functional collaboration, Agile methodologies, Customer discovery  
-**Analytics & Data:** Data-driven decision making, Customer analytics, Market research, SEO optimization  
-**Development:** SaaS platforms, API integrations, Multi-channel systems, UX/UI collaboration
+- 1st place, Directus MCP Hackathon Template Challenge (2025)
+- 1st place, Rowan University Business Plan Competition (2007)
 
 ---
 
 ## Let's Connect
 
-📧 **[jayshoemaker@gmail.com](mailto:jayshoemaker@gmail.com)**  
-📞 **(609) 472-5291**  
-🔗 **[LinkedIn](https://linkedin.com/in/jayshoe)**
+**[jayshoemaker@gmail.com](mailto:jayshoemaker@gmail.com)**
+**(609) 472-5291**
+**[LinkedIn](https://linkedin.com/in/jayshoe)** · **[GitHub](https://github.com/JayShoe)**
 
 ---
 
-*Nearly 20 years of experience building businesses, leading products, and delivering results in fast-moving environments. Ready to help transform how products solve real-world problems.*
+*This page is generated from my master resume system, a structured database of 15+ years of work that I maintain as a single source of truth. The fact that you're reading it is the demo.*
