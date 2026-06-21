@@ -23,8 +23,13 @@ I have hands-on expertise shipping AI-powered features including generative cont
 
 ## Professional Experience
 
+### **eBay** – Remote
+**Product Manager, WHI Division** | May 2026 – Present
+
+Recently joined the WHI division at eBay as a Product Manager. More information will be added as projects are launched and publicly shareable.
+
 ### **Gofer Parts** – Blackwood, NJ
-**Business Development Specialist and Product Manager** | Jan 2024 – Present
+**Digital Product Manager** | Jan 2024 – April 2026
 
 • Led design and implementation of custom Product Information Management (PIM) system supporting multi-channel e-commerce strategy
 
